@@ -6,7 +6,7 @@ HTML, CSS &amp; PHP based project for an e-commerce shopping website. <br>
 **Supported features:**
 - Active Product update
 - Dynamic Pricing
-- Special offers and Promo-code discouonting
+- Special offers and Promo-code discounting
 - Load handling
 - Shopping cart
 - check-out supported for PayPal, PayTM, WePay and GooglePay
